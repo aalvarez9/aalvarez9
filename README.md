@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aalvarez9
+- 👋 Hi, I’m @aalvarez9 (currently Tech Recruiter)
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Salesforce & Python
-- 💞️ I’m looking to collaborate on Recruitment and creating projects
+- 💞️ I’m looking to collaborate on creating and sharing projects
 - 📫 How to reach me andyalvarez912@gmail.com
 
 <!---
